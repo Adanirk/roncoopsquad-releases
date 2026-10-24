@@ -1,4 +1,10 @@
 # RoNCoopSquad — signed releases
+## Download: use Uhiva Launcher
+
+**Windows: [Get Uhiva Launcher 0.2.0-rc.2](https://github.com/Adanirk/uhiva-launcher-releases/releases/tag/v0.2.0-rc.2)**. This is the recommended install path. The launcher discovers supported Steam builds, downloads and verifies the signed mod, and handles backup, installation and rollback. Raw ZIP archives in this repository are for advanced/manual use, not the normal installation flow.
+
+**Unsigned Windows preview:** not a stable release. Do not disable Windows protections. UE4SS must be present separately; the launcher explains what to do if missing. Two-PC co-op has not yet been verified.
+
 
 This repository hosts release packages and the signed release index for **RoNCoopSquad**, an unofficial Ready or Not mod by Uhiva Mods.
 
